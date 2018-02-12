@@ -1,0 +1,7 @@
+E:\Documents\GitHub\shiftskn\shiftskn\bin\Debug\shiftskn.exe.config
+E:\Documents\GitHub\shiftskn\shiftskn\bin\Debug\shiftskn.exe
+E:\Documents\GitHub\shiftskn\shiftskn\bin\Debug\shiftskn.pdb
+E:\Documents\GitHub\shiftskn\shiftskn\obj\Debug\shiftskn.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\shiftskn\shiftskn\obj\Debug\shiftskn.exe
+E:\Documents\GitHub\shiftskn\shiftskn\obj\Debug\shiftskn.pdb
+E:\Documents\GitHub\shiftskn\shiftskn\obj\Debug\shiftskn.csprojResolveAssemblyReference.cache
